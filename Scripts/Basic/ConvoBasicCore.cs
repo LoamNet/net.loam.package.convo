@@ -44,10 +44,13 @@ namespace Loam.Convo
                 Debug.Log(input);
             }
         }
+        public void Awake()
+        {
+            _dialog.Hide();
+        }
 
         public void Start()
         {
-            _dialog.Hide();
             _dialog.ConversationSystem.OnEnd += EndConversation;
             _dialog.ConversationSystem.OnMessage += ProcessMessage;
 
