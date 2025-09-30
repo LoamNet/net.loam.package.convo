@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Loam
+namespace Loam.Convo
 {
     [System.Serializable]
     public class ConversationLine

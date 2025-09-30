@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Loam
+namespace Loam.Convo
 {
     /// <summary>
     /// A basic core to start and wrangle a conversation system via a dialog.

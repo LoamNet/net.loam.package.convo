@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Loam
+namespace Loam.Convo
 {
     [System.Serializable]
     public partial class ConversationSystem : IDisposable
