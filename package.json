@@ -1,0 +1,27 @@
+{
+  "name": "net.loam.convo",
+  "version": "0.1.0",
+  "displayName": "Loam Convo",
+  "description": "Lightweight basic JSON-driven dialogue system",
+  "unity": "2022.3",
+  "unityRelease": "40f1",
+  "documentationUrl": "https://github.com/LoamNet/net.loam.package.convo/blob/main/README.md",
+  "changelogUrl": "https://github.com/LoamNet/net.loam.package.convo/commits/main",
+  "licensesUrl": "https://github.com/LoamNet/net.loam.package.convo/blob/main/LICENSE.md",
+  "keywords": [
+    "convo",
+    "conversation",
+    "dialogue",
+    "dialog",
+    "chat",
+    "JSON",
+    "loam",
+    "loam.net"
+  ],
+  "author": {
+    "name": "Loam",
+    "email": "contact@loam.net",
+    "url": "https://www.loam.net/"
+  },
+  "type": "tool"
+}
