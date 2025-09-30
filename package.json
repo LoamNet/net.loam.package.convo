@@ -23,5 +23,8 @@
     "email": "contact@loam.net",
     "url": "https://www.loam.net/"
   },
-  "type": "tool"
+  "type": "tool",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  }
 }
