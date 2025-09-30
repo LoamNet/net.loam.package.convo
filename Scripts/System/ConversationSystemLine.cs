@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Loam.Convo
+namespace Loam
 {
     public partial class ConversationSystem
     {

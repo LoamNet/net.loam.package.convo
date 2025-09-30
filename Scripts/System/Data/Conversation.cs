@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Loam.Convo
+namespace Loam
 {
     [System.Serializable]
     public class Conversation

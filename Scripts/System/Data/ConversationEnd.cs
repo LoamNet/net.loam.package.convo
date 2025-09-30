@@ -1,4 +1,4 @@
-namespace Loam.Convo
+namespace Loam
 {
     [System.Serializable]
     public class ConversationEnd

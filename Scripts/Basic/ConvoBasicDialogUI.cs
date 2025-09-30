@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 
 
-namespace Loam.Convo
+namespace Loam
 {
     /// <summary>
     /// Hardcoded test/debug class, expects conversation with 
